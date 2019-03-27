@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
 
-cout << "Test" << endl;
+cout << "Test\n" << endl;
+cout<<"Jared was here.\n"<<endl;
 
 }
